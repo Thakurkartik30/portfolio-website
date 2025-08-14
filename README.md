@@ -2,9 +2,14 @@
 
 A modern, responsive portfolio website built with React and Tailwind CSS, featuring dark/light mode, smooth animations, and a clean UI.
 
-## 🚀 Live Demo
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FThakurkartik30%2Fportfolio-website)
 
-[View Live Demo](https://thakurkartik30.github.io/portfolio-website)
+A modern, responsive portfolio website...
+
+## 🌐 Live Demos
+
+- **Vercel**: [portfolio-website-indol-seven-74.vercel.app](https://portfolio-website-indol-seven-74.vercel.app/)
+- **GitHub Pages**: [thakurkartik30.github.io/portfolio-website](https://thakurkartik30.github.io/portfolio-website)
 
 ## 🖼️ Screenshots
 
